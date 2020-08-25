@@ -1,0 +1,10 @@
+{ 
+"version": "2.0.12", 
+isUpd="true",
+priText="pritext",
+Url="url",
+str":"已更新至2.0.12版本", 
+"Bool": "true",
+Title="title",
+NotId="1"
+}
