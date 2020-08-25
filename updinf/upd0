@@ -3,6 +3,8 @@
 "IsUpd" : true,
 "PriText" : "pritext",
 "SecText" : "pritext",
+"PriEnabled" : true,
+"SecEnabled" : false,
 "PriUrl" : "https://qq.com",
 "SecUrl" : "https://baidu.com",
 "Str" : "已更新至2.0.12版本",
